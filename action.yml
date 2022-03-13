@@ -1,6 +1,6 @@
-name: 'gdrive-upload-action'
+name: 'gdrive-upload-action-test'
 description: 'Upload a file to Google Drive'
-author: 'Mathis Van Eetvelde'
+author: 'Example'
 inputs:
   filename:
     description: 'the name of the file you want to upload'
